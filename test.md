@@ -16,11 +16,6 @@ Here are some of the 🛠️ popular tools and technologies I am experienced wit
   
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=mishad01&theme=dark&hide_border=false" alt="GitHub Streak" /></p>
 
-<div margin-top="30px">
-  <p>&nbsp;<img width="50%" src="https://github-readme-stats.vercel.app/api?username=anikkdev&show_icons=true&locale=en&theme=radical" alt="anikkdev" /></p>
-
-<img align="right" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=anikkdev&theme=radical" alt="anikkdev" />
-  </div>
 
 
 
