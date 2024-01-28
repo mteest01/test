@@ -14,7 +14,7 @@ Here are some of the 🛠️ popular tools and technologies I am experienced wit
 - **IDEs**: Sublime Text Editor,Visual Studio Code 💻, Android Studio 📱, JetBrains IDEs 🚀
 <br/>
   
-<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=anikkdev&show_icons=true&locale=en&layout=compact&theme=radical" alt="anikkdev" /></p>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=mishad01&theme=dark&hide_border=false" alt="GitHub Streak" /></p>
 
 <div margin-top="30px">
   <p>&nbsp;<img width="50%" src="https://github-readme-stats.vercel.app/api?username=anikkdev&show_icons=true&locale=en&theme=radical" alt="anikkdev" /></p>
