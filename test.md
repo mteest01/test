@@ -2,7 +2,7 @@
 <h1 align="center">I'm Mishad</h1>
 
 ### About Me
-<a href="https://app.daily.dev/mishad"><img src="https://api.daily.dev/devcards/0837574d67e74b70942c507f77618b40.png?r=e0w" width="400" alt="Sakif Rahaman Mishad's Dev Card"/></a>
+<a href="https://app.daily.dev/mishad"><img src="https://github.com/mishad01/mishad01/blob/main/devcard.svg" width="400" alt="Sakif Rahaman Mishad's Dev Card"/></a>
 🖥️ CSE Student | Coding aficionado exploring 🤖 C, 🤖 C++, 🎯 Dart, and Java. A C++ maestro in coding competitions. Passionate about Flutter for creating dynamic mobile experiences 📱
 
 ### 🚀 Skills and Tools
